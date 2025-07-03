@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Priyambadasahu
-- 👀 I’m interested in Java FullStack
-- 🌱 I’m currently learning ...Python
-- 💞️ I’m looking to collaborate on IT Field
-- 📫 How to reach me ?? here via Email: priyambadasahu79@gmail.com
-- 😄 Tech Enthusiastic
-- ⚡ Code More Worry Less
+# 👋 Hi, I’m Priyambada Sahu
+
+💻 Aspiring Frontend Developer | React.js | JavaScript | HTML | CSS  
+🎓 2023 B.Tech (CSE) Graduate from Siksha 'O' Anusandhan University  
+🌱 Currently building projects using React, Redux, and REST APIs  
+📬 Reach me at: priyambadasahu79@gmail.com  
+💡 I love solving real-world problems through clean and user-friendly web apps  
+⚡ Motto: Code More, Worry Less  
+
 
 <!---
 Priyambadasahu/Priyambadasahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
